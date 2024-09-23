@@ -1,4 +1,4 @@
-#Prueba de T de una muestra
+#Prueba de T de una muestra #INDEPENDIENTE
 #Realizar la comparación de una muestra experimental vs una muestra
 # teórica
 library(readr)
@@ -17,12 +17,12 @@ boxplot(semillas$Peso,
         col = "salmon1")
 abline(h =6.2, col="tomato2", lwd = 3, lty = "dotdash")
 abline(h=5.7,col="turquoise3", lwd =3, lty = "dotdash")
+# abline (Agregar líneas rectas a un gráfico)
 #lwd = ancho y lty = tipo
 
 t.test(semillas$Peso, mu = 6.2)
 #mu = media teorética
-#no existen diferencias entre el peso observado y el peso de
-#la media teorética
+#no existen diferencias entre el peso observado y el peso de la media teorética
 #aceptando la hpótesis alternativa
 
 
