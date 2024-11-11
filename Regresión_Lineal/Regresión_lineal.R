@@ -46,3 +46,7 @@ abline(gy.lm, col = "purple", lwd = 3)
 geyser$predicho <- gy.lm$fitted.values
 geyser$yprima <- -1.874016 + 0.075628 * geyser$waiting
 geyser$residual <- gy.lm$residuals^2
+
+#si quiero conocer el tiempo de erupción en esas diferentes minutos de espera (70,75,82)
+yprima <- c(70,75,82)
+-1.87+0.075 * yprima
