@@ -17,6 +17,11 @@ Scripts de trabajos en clase
 + Semana 8: Repaso
 + Semana 9: Comparación de muestras dependientes e independientes
 + Semana 10: Primer Examen parcial.
-+ Semana 11:
-+ Semana 12: Script 6, Pruebas T con alternative = less, grater.
-+ Semana 13: Script 7,
++ Semana 11: Script 6, Pruebas T con alternative = less, grater.
++ Semana 12: Script 7, datos especie pseudostrobus.
++ Semana 13: Script 8, correlación.
++ Semana 14: Script 9, Regresión lineal
++ Semana 15: Segundo examen parcial.
++ Semana 16: Script 10, Seguimiento del análisis de varianzas ANOVA Y TUKEY.
++ Semana 17: No hubo clase.
++ Semana 18: Se presenta el examen final de ANOVA Y TUKEY.
