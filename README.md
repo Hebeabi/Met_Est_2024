@@ -18,4 +18,5 @@ Scripts de trabajos en clase
 + Semana 9: Comparación de muestras dependientes e independientes
 + Semana 10: Primer Examen parcial.
 + Semana 11:
-+ Semana 12: Script 6 sobre datos de pseudostrobus 
++ Semana 12: Script 6, Pruebas T con alternative = less, grater.
++ Semana 13: Script 7,
