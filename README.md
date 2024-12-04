@@ -25,3 +25,6 @@ Scripts de trabajos en clase
 + Semana 16: Script 10, Seguimiento del análisis de varianzas ANOVA Y TUKEY.
 + Semana 17: No hubo clase.
 + Semana 18: Se presenta el examen final de ANOVA Y TUKEY.
+
+## Gráfica de contribución
+![gráficas MET](https://github.com/user-attachments/assets/aeb5dff9-86eb-403c-ba0a-88ed0e699d47)
